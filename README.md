@@ -2,7 +2,7 @@
 
 ## A Mobile App to Interact with AI Anime Girls for Roleplay & Fun!
 
-![Feature Image](img/feature.png)
+![Feature Image](docs/assets/img/feature.png)
 
 🚀 **Early Access Alert!** Try our AI Anime Girls Roleplay App for FREE!
 
