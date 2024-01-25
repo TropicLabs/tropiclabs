@@ -6,6 +6,8 @@
 
 🚀 **Early Access Alert!** Try our AI Anime Girls Roleplay App for FREE!
 
+Closed Beta Registration is now open! Please follow this [link](https://groups.google.com/g/social-companion-tester) to participate in the testing and gain access to exclusive previews!
+
 Unlock a world of interactive anime roleplay with our AI character companions! Chat, socialize, and immerse yourself in captivating conversations with Tsundere, Yandere, and even a caring psychiatrist character. Whether you're looking for light-hearted banter, thrilling encounters, or meaningful guidance, our AI anime girls have you covered.
 
 **Key Features:**
