@@ -31,3 +31,5 @@ Unlock a world of interactive anime roleplay with our AI character companions! C
 Unleash your creativity, share your emotions, and embark on unforgettable adventures with our AI anime girls. Download now and dive into a world of immersive roleplay, all at your fingertips!
 
 Join us in creating a vibrant community of anime enthusiasts and storytelling enthusiasts. Download now and let the adventure begin!"
+
+**By using this app, you agree to our [Privacy Policy](docs/privacy.md) and [Terms and Conditions](docs/sc/tos.md).**
