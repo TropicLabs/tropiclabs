@@ -22,7 +22,7 @@ Unlock a world of interactive anime roleplay with our AI character companions! C
 
 🌐 **Global Community:** Connect with fellow users worldwide, share your roleplay experiences, and make new friends who share your passion for anime and storytelling.
 
-🎵 **Customization:** Personalize your conversations with a range of character outfits, backgrounds, and themes to enhance your roleplay experience.
+🎵 **Customization (Coming soon!):** Personalize your conversations with a range of character outfits, backgrounds, and themes to enhance your roleplay experience.
 
 💬 **Safe & Respectful Environment:** We prioritize a respectful and inclusive community, ensuring a positive and enjoyable experience for all users.
 
