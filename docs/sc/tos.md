@@ -1,6 +1,6 @@
 **Terms of Service for KinkyAI Chat**
 
-_Last Updated: 2024-01-26_
+_Last Updated: 2024-03-01_
 
 **1. Acceptance of Terms**
 
