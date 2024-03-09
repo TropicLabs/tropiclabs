@@ -1,10 +1,10 @@
-**Terms of Service for Social Companion**
+**Terms of Service for KinkyAI Chat**
 
 _Last Updated: 2024-01-26_
 
 **1. Acceptance of Terms**
 
-By downloading, accessing, or using Social Companion (“App”), you agree to be bound by these Terms of Service (“Terms”). If you do not agree to these Terms, please do not use the App.
+By downloading, accessing, or using KinkyAI Chat (“App”), you agree to be bound by these Terms of Service (“Terms”). If you do not agree to these Terms, please do not use the App.
 
 **2. Changes to Terms**
 
@@ -44,7 +44,7 @@ In no event shall Tropic Labs, nor its directors, employees, partners, agents, s
 
 **11. Governing Law**
 
-These Terms shall be governed and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law provisions.
+These Terms shall be governed and construed in accordance with the laws of Hong Kong, without regard to its conflict of law provisions.
 
 **12. Changes to the App**
 
@@ -52,4 +52,4 @@ Tropic Labs reserves the right to modify or discontinue, temporarily or permanen
 
 **13. Contact Us**
 
-If you have any questions about these Terms, please contact us at contact.tropiclabs@gmail.com.
+If you have any questions about these Terms, please contact us at contact@tropiclabs.online
